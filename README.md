@@ -1,4 +1,4 @@
-# circleci-orb-npm [![CircleCI Build Status](https://circleci.com/gh/takescoop/circleci-orb-npm.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/takescoop/circleci-orb-npm) [![CircleCI Orb Version](https://img.shields.io/badge/endpoint.svg?url=https://badges.circleci.io/orb/takescoop/npm)](https://circleci.com/orbs/registry/orb/takescoop/npm)
+# circleci-orb-npm [![CircleCI Build Status](https://circleci.com/gh/TakeScoop/circleci-orb-npm.svg?style=shield "CircleCI Build Status")](https://circleci.com/gh/TakeScoop/circleci-orb-npm) [![CircleCI Orb Version](https://img.shields.io/badge/endpoint.svg?url=https://badges.circleci.io/orb/takescoop/npm)](https://circleci.com/orbs/registry/orb/takescoop/npm)
 
 > CircleCI orb for configuring npm
 
